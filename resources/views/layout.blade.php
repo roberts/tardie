@@ -3,7 +3,7 @@
     lang="en" 
     class="h-full antialiased dark" 
     style="color-scheme: dark; --header-position: sticky; --content-offset: 0px; --header-height: 64px; --header-mb: 0px; --header-top: 0px; --avatar-top: 0px;"
-    x-data="{darkMode: true}" 
+    x-data="{darkMode: $persist(true)}"
     :class="{'dark': darkMode === true }"
 >
 
