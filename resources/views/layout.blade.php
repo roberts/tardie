@@ -7,7 +7,12 @@
     <link href="/css/app.css" rel="stylesheet">
     <title>About $BOB on Solana</title>
     <meta name="description" content="I am Bob. You are Bob. We are all perfectly Bob. We exist on the Solana Blockchain. Ticker is $BOB.">
-    <link rel="icon" href="/favicon.ico" type="image/x-icon" sizes="16x16">
+
+    <link rel="icon" type="image/x-icon" sizes="16x16" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/img/favicons/site.webmanifest">
 </head>
 
 <body class="flex h-full bg-zinc-50 dark:bg-black" data-new-gr-c-s-check-loaded="14.1157.0" data-gr-ext-installed="">
