@@ -29,11 +29,11 @@
         </div>
         <div class="mt-16 sm:mt-20">
             <div class="-my-4 flex justify-center gap-5 overflow-hidden py-4 sm:gap-8">
-                <div class="relative aspect-[9/10] w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 sm:w-72 sm:rounded-2xl dark:bg-zinc-800 rotate-2"><img alt="" loading="lazy" width="3744" height="5616" decoding="async" data-nimg="1" class="absolute inset-0 h-full w-full object-cover" style="color:transparent" sizes="(min-width: 640px) 18rem, 11rem" src="/img/dylan.jpeg"></div>
-                <div class="relative aspect-[9/10] w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 sm:w-72 sm:rounded-2xl dark:bg-zinc-800 -rotate-2"><img alt="" loading="lazy" width="3936" height="2624" decoding="async" data-nimg="1" class="absolute inset-0 h-full w-full object-cover" style="color:transparent" sizes="(min-width: 640px) 18rem, 11rem" src="/img/bushay.jpeg"></div>
-                <div class="relative aspect-[9/10] w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 sm:w-72 sm:rounded-2xl dark:bg-zinc-800 rotate-2"><img alt="" loading="lazy" width="5760" height="3840" decoding="async" data-nimg="1" class="absolute inset-0 h-full w-full object-cover" style="color:transparent" sizes="(min-width: 640px) 18rem, 11rem" src="/img/marley.jpeg"></div>
-                <div class="relative aspect-[9/10] w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 sm:w-72 sm:rounded-2xl dark:bg-zinc-800 rotate-2"><img alt="" loading="lazy" width="2400" height="3000" decoding="async" data-nimg="1" class="absolute inset-0 h-full w-full object-cover" style="color:transparent" sizes="(min-width: 640px) 18rem, 11rem" src="/img/ross.jpeg"></div>
-                <div class="relative aspect-[9/10] w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 sm:w-72 sm:rounded-2xl dark:bg-zinc-800 -rotate-2"><img alt="" loading="lazy" width="4240" height="2384" decoding="async" data-nimg="1" class="absolute inset-0 h-full w-full object-cover" style="color:transparent" sizes="(min-width: 640px) 18rem, 11rem" src="/img/sponge.jpeg"></div>
+                <div class="relative aspect-[9/10] w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 sm:w-72 sm:rounded-2xl dark:bg-zinc-800 rotate-2"><img alt="" loading="lazy" width="3744" height="5616" decoding="async" class="absolute inset-0 h-full w-full object-cover" style="color:transparent" sizes="(min-width: 640px) 18rem, 11rem" src="/img/dylan.jpeg"></div>
+                <div class="relative aspect-[9/10] w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 sm:w-72 sm:rounded-2xl dark:bg-zinc-800 -rotate-2"><img alt="" loading="lazy" width="3936" height="2624" decoding="async" class="absolute inset-0 h-full w-full object-cover" style="color:transparent" sizes="(min-width: 640px) 18rem, 11rem" src="/img/bushay.jpeg"></div>
+                <div class="relative aspect-[9/10] w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 sm:w-72 sm:rounded-2xl dark:bg-zinc-800 rotate-2"><img alt="" loading="lazy" width="5760" height="3840" decoding="async" class="absolute inset-0 h-full w-full object-cover" style="color:transparent" sizes="(min-width: 640px) 18rem, 11rem" src="/img/marley.jpeg"></div>
+                <div class="relative aspect-[9/10] w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 sm:w-72 sm:rounded-2xl dark:bg-zinc-800 rotate-2"><img alt="" loading="lazy" width="2400" height="3000" decoding="async" class="absolute inset-0 h-full w-full object-cover" style="color:transparent" sizes="(min-width: 640px) 18rem, 11rem" src="/img/ross.jpeg"></div>
+                <div class="relative aspect-[9/10] w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 sm:w-72 sm:rounded-2xl dark:bg-zinc-800 -rotate-2"><img alt="" loading="lazy" width="4240" height="2384" decoding="async" class="absolute inset-0 h-full w-full object-cover" style="color:transparent" sizes="(min-width: 640px) 18rem, 11rem" src="/img/sponge.jpeg"></div>
             </div>
         </div>
         <div class="sm:px-8 mt-24 md:mt-28">
@@ -110,7 +110,7 @@
                                         </svg><span class="ml-3">Roadmap</span></h2>
                                     <ol class="mt-6 space-y-4">
                                         <li class="flex gap-4">
-                                            <div class="relative mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="32" height="32" decoding="async" data-nimg="1" class="h-7 w-7 object-cover rounded" style="color:transparent" src="/img/marley.jpeg"></div>
+                                            <div class="relative mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="32" height="32" decoding="async" class="h-7 w-7 object-cover rounded" style="color:transparent" src="/img/marley.jpeg"></div>
                                             <dl class="flex flex-auto flex-wrap gap-x-2">
                                                 <dt class="sr-only">Bob</dt>
                                                 <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100">Bob Marley</dd>
@@ -121,7 +121,7 @@
                                             </dl>
                                         </li>
                                         <li class="flex gap-4">
-                                            <div class="relative mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="28" height="28" decoding="async" data-nimg="1" class="h-7 w-7" style="color:transparent" src="/img/ross.jpeg"></div>
+                                            <div class="relative mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="28" height="28" decoding="async" class="h-7 w-7" style="color:transparent" src="/img/ross.jpeg"></div>
                                             <dl class="flex flex-auto flex-wrap gap-x-2">
                                                 <dt class="sr-only">Bob</dt>
                                                 <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100">Bob Ross</dd>
@@ -132,7 +132,7 @@
                                             </dl>
                                         </li>
                                         <li class="flex gap-4">
-                                            <div class="relative mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="28" height="28" decoding="async" data-nimg="1" class="h-7 w-7" style="color:transparent" src="/img/dylan.jpeg"></div>
+                                            <div class="relative mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="28" height="28" decoding="async" class="h-7 w-7" style="color:transparent" src="/img/dylan.jpeg"></div>
                                             <dl class="flex flex-auto flex-wrap gap-x-2">
                                                 <dt class="sr-only">Bob</dt>
                                                 <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100">Bob Dylan</dd>
@@ -143,7 +143,7 @@
                                             </dl>
                                         </li>
                                         <li class="flex gap-4">
-                                            <div class="relative mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="28" height="28" decoding="async" data-nimg="1" class="h-7 w-7" style="color:transparent" src="/img/sponge.jpeg"></div>
+                                            <div class="relative mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="28" height="28" decoding="async" class="h-7 w-7" style="color:transparent" src="/img/sponge.jpeg"></div>
                                             <dl class="flex flex-auto flex-wrap gap-x-2">
                                                 <dt class="sr-only">Bob</dt>
                                                 <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100">Sponge Bob</dd>

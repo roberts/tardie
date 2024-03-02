@@ -14,7 +14,7 @@
                         <div class="mt-16 sm:mt-20">
                             <ul role="list" class="grid grid-cols-1 gap-x-12 gap-y-16 sm:grid-cols-2 lg:grid-cols-3">
                                 <li class="group relative flex flex-col items-start">
-                                    <div class="relative z-10 flex h-12 w-12 items-center justify-center rounded-full bg-white shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="32" height="32" decoding="async" data-nimg="1" class="h-8 w-8" src="./memes_files/planetaria.ecd81ade.svg" style="color: transparent;"></div>
+                                    <div class="relative z-10 flex h-12 w-12 items-center justify-center rounded-full bg-white shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="32" height="32" decoding="async" class="h-8 w-8" src="./memes_files/planetaria.ecd81ade.svg" style="color: transparent;"></div>
                                     <h2 class="mt-6 text-base font-semibold text-zinc-800 dark:text-zinc-100">
                                         <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 sm:-inset-x-6 sm:rounded-2xl dark:bg-zinc-800/50"></div><a href="http://planetaria.tech/"><span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span><span class="relative z-10">Planetaria</span></a>
                                     </h2>
@@ -24,7 +24,7 @@
                                         </svg><span class="ml-2">planetaria.tech</span></p>
                                 </li>
                                 <li class="group relative flex flex-col items-start">
-                                    <div class="relative z-10 flex h-12 w-12 items-center justify-center rounded-full bg-white shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="32" height="32" decoding="async" data-nimg="1" class="h-8 w-8" src="./memes_files/animaginary.8d221e52.svg" style="color: transparent;"></div>
+                                    <div class="relative z-10 flex h-12 w-12 items-center justify-center rounded-full bg-white shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="32" height="32" decoding="async" class="h-8 w-8" src="./memes_files/animaginary.8d221e52.svg" style="color: transparent;"></div>
                                     <h2 class="mt-6 text-base font-semibold text-zinc-800 dark:text-zinc-100">
                                         <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 sm:-inset-x-6 sm:rounded-2xl dark:bg-zinc-800/50"></div><a href="/projects#"><span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span><span class="relative z-10">Animaginary</span></a>
                                     </h2>
@@ -34,7 +34,7 @@
                                         </svg><span class="ml-2">github.com</span></p>
                                 </li>
                                 <li class="group relative flex flex-col items-start">
-                                    <div class="relative z-10 flex h-12 w-12 items-center justify-center rounded-full bg-white shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="32" height="32" decoding="async" data-nimg="1" class="h-8 w-8" src="./memes_files/helio-stream.2ac8d11f.svg" style="color: transparent;"></div>
+                                    <div class="relative z-10 flex h-12 w-12 items-center justify-center rounded-full bg-white shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="32" height="32" decoding="async" class="h-8 w-8" src="./memes_files/helio-stream.2ac8d11f.svg" style="color: transparent;"></div>
                                     <h2 class="mt-6 text-base font-semibold text-zinc-800 dark:text-zinc-100">
                                         <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 sm:-inset-x-6 sm:rounded-2xl dark:bg-zinc-800/50"></div><a href="/projects#"><span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span><span class="relative z-10">HelioStream</span></a>
                                     </h2>
@@ -44,7 +44,7 @@
                                         </svg><span class="ml-2">github.com</span></p>
                                 </li>
                                 <li class="group relative flex flex-col items-start">
-                                    <div class="relative z-10 flex h-12 w-12 items-center justify-center rounded-full bg-white shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="32" height="32" decoding="async" data-nimg="1" class="h-8 w-8" src="./memes_files/cosmos.c70b0295.svg" style="color: transparent;"></div>
+                                    <div class="relative z-10 flex h-12 w-12 items-center justify-center rounded-full bg-white shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="32" height="32" decoding="async" class="h-8 w-8" src="./memes_files/cosmos.c70b0295.svg" style="color: transparent;"></div>
                                     <h2 class="mt-6 text-base font-semibold text-zinc-800 dark:text-zinc-100">
                                         <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 sm:-inset-x-6 sm:rounded-2xl dark:bg-zinc-800/50"></div><a href="/projects#"><span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span><span class="relative z-10">cosmOS</span></a>
                                     </h2>
@@ -54,7 +54,7 @@
                                         </svg><span class="ml-2">github.com</span></p>
                                 </li>
                                 <li class="group relative flex flex-col items-start">
-                                    <div class="relative z-10 flex h-12 w-12 items-center justify-center rounded-full bg-white shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="32" height="32" decoding="async" data-nimg="1" class="h-8 w-8" src="./memes_files/open-shuttle.db0327e4.svg" style="color: transparent;"></div>
+                                    <div class="relative z-10 flex h-12 w-12 items-center justify-center rounded-full bg-white shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="32" height="32" decoding="async" class="h-8 w-8" src="./memes_files/open-shuttle.db0327e4.svg" style="color: transparent;"></div>
                                     <h2 class="mt-6 text-base font-semibold text-zinc-800 dark:text-zinc-100">
                                         <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 sm:-inset-x-6 sm:rounded-2xl dark:bg-zinc-800/50"></div><a href="/projects#"><span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span><span class="relative z-10">OpenShuttle</span></a>
                                     </h2>

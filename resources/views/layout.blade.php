@@ -3,8 +3,10 @@
     lang="en" 
     class="h-full antialiased dark" 
     style="color-scheme: dark; --header-position: sticky; --content-offset: 0px; --header-height: 64px; --header-mb: 0px; --header-top: 0px; --avatar-top: 0px;"
-    x-data="{darkMode: $persist(true)}"
+    x-data="{ darkMode: $persist(true), 'showModal': false }"
     :class="{'dark': darkMode === true }"
+    @keydown.escape="showModal = false" 
+    x-cloak
 >
 
 <head>
@@ -40,7 +42,7 @@
 
 </head>
 
-<body class="flex h-full bg-zinc-50 dark:bg-black" data-new-gr-c-s-check-loaded="14.1157.0" data-gr-ext-installed="">
+<body class="flex h-full bg-zinc-50 dark:bg-black">
     <div class="flex w-full">
         <div class="fixed inset-0 flex justify-center sm:px-8">
             <div class="flex w-full max-w-7xl lg:px-8">
