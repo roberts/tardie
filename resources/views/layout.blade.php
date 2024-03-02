@@ -27,6 +27,9 @@
     <meta name="twitter:description" content="{{ $ogdescription ?? 'I am Bob. You are Bob. We are all perfectly Bob. We exist on the Solana Blockchain. Ticker is $BOB.' }}" />
     <meta name="twitter:title" content="{{ $title ?? '$BOB on Solana' }}" />
 
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="{{ csrf_token() }}">
+
     
 </head>
 
