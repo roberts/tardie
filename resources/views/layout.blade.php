@@ -8,7 +8,7 @@
 
     <title>{{ $title ?? '$BOB on Solana' }}</title>
     <meta name="description" content="{{ $description ?? 'I am Bob. You are Bob. We are all perfectly Bob. We exist on the Solana Blockchain. Ticker is $BOB.' }}" />
-    <link rel="canonical" href="{{ $canonical }}" />
+    <link rel="canonical" href="{{ $canonical ?? 'https://tickerisbob.com' }}" />
     <link rel="icon" type="image/x-icon" sizes="16x16" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/img/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/img/favicons/favicon-32x32.png">

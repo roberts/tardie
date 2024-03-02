@@ -1,6 +1,9 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\Pages\AboutController;
+use App\Http\Controllers\Pages\HomepageController;
+use App\Http\Controllers\Pages\MemesController;
 
 /*
 |--------------------------------------------------------------------------
@@ -13,14 +16,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('index');
-});
+Route::get('/', HomepageController::class)->name('home');
 
-Route::get('/about', function () {
-    return view('about');
-});
+Route::get('/about', AboutController::class)->name('about');
 
-Route::get('/memes', function () {
-    return view('memes');
-});
+Route::get('/memes', MemesController::class)->name('memes');
