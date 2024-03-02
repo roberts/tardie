@@ -30,7 +30,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    
+    <script src="{{ asset('js/app.js') }}" defer></script>
 </head>
 
 <body class="flex h-full bg-zinc-50 dark:bg-black" data-new-gr-c-s-check-loaded="14.1157.0" data-gr-ext-installed="">
