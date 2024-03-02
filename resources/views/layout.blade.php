@@ -5,14 +5,29 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="/css/app.css" rel="stylesheet">
-    <title>About $BOB on Solana</title>
-    <meta name="description" content="I am Bob. You are Bob. We are all perfectly Bob. We exist on the Solana Blockchain. Ticker is $BOB.">
 
+    <title>{{ $title ?? '$BOB on Solana' }}</title>
+    <meta name="description" content="{{ $description ?? 'I am Bob. You are Bob. We are all perfectly Bob. We exist on the Solana Blockchain. Ticker is $BOB.' }}" />
+    <link rel="canonical" href="{{ $canonical }}" />
     <link rel="icon" type="image/x-icon" sizes="16x16" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/img/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/img/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/img/favicons/favicon-16x16.png">
     <link rel="manifest" href="/img/favicons/site.webmanifest">
+
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{ $title ?? '$BOB on Solana' }}" />
+    <meta property="og:description" content="{{ $description ?? 'I am Bob. You are Bob. We are all perfectly Bob. We exist on the Solana Blockchain. Ticker is $BOB.' }}" />
+    <meta property="og:url" content="{{ $canonical ?? 'https://tickerisbob.com' }}" />
+    <meta property="og:site_name" content="$BOB on Solana" />
+    <meta property="og:image" content="{{ $ogimage ?? 'https://tickerisbob.com/img/og-bob.png' }}" />
+    <meta property="article:publisher" content="https://www.facebook.com/drewroberts" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:description" content="{{ $ogdescription ?? 'I am Bob. You are Bob. We are all perfectly Bob. We exist on the Solana Blockchain. Ticker is $BOB.' }}" />
+    <meta name="twitter:title" content="{{ $title ?? '$BOB on Solana' }}" />
+
+    
 </head>
 
 <body class="flex h-full bg-zinc-50 dark:bg-black" data-new-gr-c-s-check-loaded="14.1157.0" data-gr-ext-installed="">
