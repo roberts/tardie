@@ -33,10 +33,10 @@
                                             </div>
                                             <nav class="mt-6">
                                                 <ul class="-my-2 divide-y divide-zinc-100 text-base text-zinc-800 dark:divide-zinc-100/5 dark:text-zinc-300">
-                                                    <li><a class="block py-2" href="/about">Home</a></li>    
-                                                    <li><a class="block py-2" href="/about">About</a></li>
-                                                    <li><a class="block py-2" href="/memess">Memes</a></li>
-                                                    <li><a class="block py-2" href="/chart">Chart</a></li>
+                                                    <li><a class="block py-2" href="{{ route('home') }}">Home</a></li>    
+                                                    <li><a class="block py-2" href="{{ route('about') }}">About</a></li>
+                                                    <li><a class="block py-2" href="{{ route('memes') }}">Memes</a></li>
+                                                    <li><a class="block py-2" href="https://dexscreener.com/solana/cjwqrhxilv4vwtclsauykbhnwcgmh1y9fbltqezqcvcu">Chart</a></li>
                                                 </ul>
                                             </nav>
                                         </div>
