@@ -11,7 +11,7 @@
                             <h1 class="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">I am Bob. You are Bob. We are all perfectly Bob.</h1>
                             <p class="mt-6 text-base text-zinc-600 dark:text-zinc-400">Robert is the Alpha. Bob is the Omega. All Bobs are Bob and all Bobs are He. In Bob we trust. $BOB lives on the Solana Blockchain under this contract address: <a class=" text-zinc-600 dark:text-zinc-400 transition hover:text-zinc-500 dark:hover:text-zinc-300" href="https://solscan.io/token/4rtdcn81czaDSGRdumyj76JFgeo55aZKXUURm2M2iVdN">4rtdcn81czaDSGRdumyj76JFgeo55aZKXUURm2M2iVdN</a></p>
                             <div class="mt-6 flex gap-6">
-                                <a class="group -m-1 p-1" aria-label="Follow on X" href="https://x.com/wearebobdao">
+                                <a class="group -m-1 p-1" aria-label="Follow on X" href="https://x.com/BobdaoSol">
                                     <svg viewBox="0 0 24 24" aria-hidden="true" class="h-6 w-6 fill-zinc-500 transition group-hover:fill-zinc-600 dark:fill-zinc-400 dark:group-hover:fill-zinc-300">
                                         <path d="M13.3174 10.7749L19.1457 4H17.7646L12.7039 9.88256L8.66193 4H4L10.1122 12.8955L4 20H5.38119L10.7254 13.7878L14.994 20H19.656L13.3171 10.7749H13.3174ZM11.4257 12.9738L10.8064 12.0881L5.87886 5.03974H8.00029L11.9769 10.728L12.5962 11.6137L17.7652 19.0075H15.6438L11.4257 12.9742V12.9738Z"></path>
                                     </svg>
