@@ -10,7 +10,7 @@
                                 <a class="transition hover:text-teal-500 dark:hover:text-teal-400" href="{{ route('about') }}">About</a>
                                 <a class="transition hover:text-teal-500 dark:hover:text-teal-400" href="/whitepaper.pdf">Whitepaper</a>
                                 <a class="transition hover:text-teal-500 dark:hover:text-teal-400" href="{{ route('memes') }}">Memes</a>
-                                <a class="transition hover:text-teal-500 dark:hover:text-teal-400" href="https://dexscreener.com/solana/cjwqrhxilv4vwtclsauykbhnwcgmh1y9fbltqezqcvcu">Chart</a>
+                                <a class="transition hover:text-teal-500 dark:hover:text-teal-400" href="{{ route('chart') }}">Chart</a>
                             </div>
                             <p class="text-sm text-zinc-400 dark:text-zinc-500">© <!-- -->2024<!-- --> TickerIsBob.com. No rights reserved.</p>
                         </div>

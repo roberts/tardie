@@ -21,3 +21,5 @@ Route::get('/', HomepageController::class)->name('home');
 Route::get('/about', AboutController::class)->name('about');
 
 Route::get('/memes', MemesController::class)->name('memes');
+
+Route::get('/chart', MemesController::class)->name('chart');

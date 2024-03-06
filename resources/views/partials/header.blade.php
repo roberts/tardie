@@ -37,7 +37,7 @@
                                                     <li><a class="block py-2" href="{{ route('about') }}">About</a></li>
                                                     <li><a class="block py-2" href="/whitepaper.pdf">Whitepaper</a></li>
                                                     <li><a class="block py-2" href="{{ route('memes') }}">Memes</a></li>
-                                                    <li><a class="block py-2" href="https://dexscreener.com/solana/cjwqrhxilv4vwtclsauykbhnwcgmh1y9fbltqezqcvcu">Chart</a></li>
+                                                    <li><a class="block py-2" href="{{ route('chart') }}">Chart</a></li>
                                                 </ul>
                                             </nav>
                                         </div>
@@ -51,7 +51,7 @@
                                         <li><a class="relative block px-3 py-2 transition hover:text-teal-500 dark:hover:text-teal-400" href="{{ route('about') }}">About</a></li>
                                         <li><a class="relative block px-3 py-2 transition hover:text-teal-500 dark:hover:text-teal-400" href="/whitepaper.pdf">Whitepaper</a></li>
                                         <li><a class="relative block px-3 py-2 transition hover:text-teal-500 dark:hover:text-teal-400" href="{{ route('memes') }}">Memes</a></li>
-                                        <li><a class="relative block px-3 py-2 transition hover:text-teal-500 dark:hover:text-teal-400" href="https://dexscreener.com/solana/cjwqrhxilv4vwtclsauykbhnwcgmh1y9fbltqezqcvcu">Chart</a></li>
+                                        <li><a class="relative block px-3 py-2 transition hover:text-teal-500 dark:hover:text-teal-400" href="{{ route('chart') }}">Chart</a></li>
                                     </ul>
                                 </nav>
                             </div>
