@@ -4,6 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Pages\AboutController;
 use App\Http\Controllers\Pages\HomepageController;
 use App\Http\Controllers\Pages\MemesController;
+use App\Http\Controllers\Pages\ChartController;
 
 /*
 |--------------------------------------------------------------------------
@@ -22,4 +23,4 @@ Route::get('/about', AboutController::class)->name('about');
 
 Route::get('/memes', MemesController::class)->name('memes');
 
-Route::get('/chart', MemesController::class)->name('chart');
+Route::get('/chart', ChartController::class)->name('chart');
