@@ -21,6 +21,9 @@ Route::get('/', HomepageController::class)->name('home');
 
 Route::get('/about', AboutController::class)->name('about');
 
-Route::get('/memes', MemesController::class)->name('memes');
-
 Route::get('/chart', ChartController::class)->name('chart');
+
+Route::prefix('memes')->group(function () {
+    Route::get('/', [MemesController::class, 'index'])->name('memes');
+    Route::get('{meme}', [MemesController::class, 'show'])->name('meme');
+});
