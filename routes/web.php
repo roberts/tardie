@@ -26,6 +26,6 @@ Route::get('/chart', ChartController::class)->name('chart');
 
 Route::prefix('memes')->group(function () {
     Route::get('/', [MemesController::class, 'index'])->name('memes');
-    Route::get('{memeType}', [MemeTypeController::class, 'show'])->name('meme');
+    Route::get('{memeType}', [MemeTypeController::class, 'show'])->name('memetype');
     Route::get('{memeType}/{meme}', [MemesController::class, 'show'])->name('meme');
 });

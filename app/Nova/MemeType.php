@@ -13,7 +13,6 @@ use Laravel\Nova\Fields\Text;
 use Laravel\Nova\Fields\Textarea;
 use Laravel\Nova\Http\Requests\NovaRequest;
 use Laravel\Nova\Panel;
-use Tipoff\Support\Enums\LayoutType;
 use Tipoff\Support\Nova\BaseResource;
 
 class MemeType extends BaseResource

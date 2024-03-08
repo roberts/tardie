@@ -62,9 +62,4 @@ class MemeType extends BaseModel
     {
         return $this->hasMany(Meme::class);
     }
-
-    public function posts()
-    {
-        return $this->hasManyThrough(app('post'), app('series'));
-    }
 }

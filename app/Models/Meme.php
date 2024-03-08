@@ -2,9 +2,6 @@
 
 namespace App\Models;
 
-use Illuminate\Database\Eloquent\Factories\HasFactory;
-
-
 use Carbon\Carbon;
 use DrewRoberts\Blog\Traits\HasPageViews;
 use DrewRoberts\Blog\Traits\Publishable;
