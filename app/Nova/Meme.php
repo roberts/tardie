@@ -13,7 +13,6 @@ use Laravel\Nova\Fields\Text;
 use Laravel\Nova\Fields\Textarea;
 use Laravel\Nova\Http\Requests\NovaRequest;
 use Laravel\Nova\Panel;
-use Tipoff\Support\Enums\LayoutType;
 use Tipoff\Support\Nova\BaseResource;
 
 class Meme extends BaseResource
@@ -45,6 +44,7 @@ class Meme extends BaseResource
         return [
             Text::make('Title')->required(),
             Slug::make('Slug')->from('Title'),
+            nova('memeType') ? BelongsTo::make('MemeType', 'memeType', nova('memeType'))->nullable()->showCreateRelationButton() : null,
             nova('image') ? BelongsTo::make('Image', 'image', nova('image'))->nullable()->showCreateRelationButton() : null,
             TextCopy::make('Link',  function () {
                 return config('app.url') . $this->path;
