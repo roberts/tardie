@@ -65,6 +65,11 @@ class Meme extends BaseModel
         return 'slug';
     }
 
+    public function memeType()
+    {
+        return $this->belongsTo(MemeType::class);
+    }
+
     /**
      * Get a string path for the meme
      *
@@ -72,8 +77,10 @@ class Meme extends BaseModel
      */
     public function getPathAttribute(): string
     {
-        return "/memes/{$this->slug}";
+        return "/memes/{$this->memeType->slug}/{$this->slug}";
     }
+
+
 
     public function author()
     {

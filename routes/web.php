@@ -4,6 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Pages\AboutController;
 use App\Http\Controllers\Pages\HomepageController;
 use App\Http\Controllers\Pages\MemesController;
+use App\Http\Controllers\Pages\MemeTypeController;
 use App\Http\Controllers\Pages\ChartController;
 
 /*
@@ -25,5 +26,6 @@ Route::get('/chart', ChartController::class)->name('chart');
 
 Route::prefix('memes')->group(function () {
     Route::get('/', [MemesController::class, 'index'])->name('memes');
-    Route::get('{meme}', [MemesController::class, 'show'])->name('meme');
+    Route::get('{memeType}', [MemeTypeController::class, 'show'])->name('meme');
+    Route::get('{memeType}/{meme}', [MemesController::class, 'show'])->name('meme');
 });

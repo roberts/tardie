@@ -3,8 +3,8 @@
 namespace App\Http\Controllers\Pages;
 
 use App\Http\Controllers\Controller;
-use App\Http\Requests\StoreMemeTypeRequest;
-use App\Http\Requests\UpdateMemeTypeRequest;
+use DrewRoberts\Media\Models\Image;
+use Illuminate\Http\Request;
 use App\Models\MemeType;
 
 class MemeTypeController extends Controller
@@ -19,14 +19,25 @@ class MemeTypeController extends Controller
         //
     }
 
-    public function store(StoreMemeTypeRequest $request)
+    public function store(Request $request)
     {
         //
     }
 
     public function show(MemeType $memeType)
     {
-        //
+        // $image = Image::find(43)->url;
+        $image = url('img/og-bob.png');
+
+        return view('pages.memetype', [
+            'memeType' => $memeType,
+            'title' => $memeType->title,
+            'description' => $memeType->description,
+            'image' => $memeType->image->url,
+            'content' => $memeType->content,
+            'canonical' => route('memetypes'),
+            'ogimage' => 'img/og-bob.png',
+        ]);
     }
 
     public function edit(MemeType $memeType)
@@ -34,7 +45,7 @@ class MemeTypeController extends Controller
         //
     }
 
-    public function update(UpdateMemeTypeRequest $request, MemeType $memeType)
+    public function update(MemeType $memeType)
     {
         //
     }
