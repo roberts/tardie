@@ -45,7 +45,7 @@ class MemeType extends BaseResource
             Text::make('Title')->required(),
             Slug::make('Slug')->from('Title'),
             TextCopy::make('Link',  function () {
-                return config('app.url') . config('tipoff.web.uri_prefix') . $this->path;
+                return config('app.url') . '/memes/' . $this->path;
             })->hideWhenCreating()->hideWhenUpdating()->asHtml(),
             nova('layout') ? BelongsTo::make('Layout', 'layout', nova('layout'))->nullable() : null,
             Textarea::make('Note')->nullable(),
