@@ -46,12 +46,9 @@ class MemeType extends BaseResource
             TextCopy::make('Link',  function () {
                 return config('app.url') . '/memes/' . $this->path;
             })->hideWhenCreating()->hideWhenUpdating()->asHtml(),
-            nova('layout') ? BelongsTo::make('Layout', 'layout', nova('layout'))->nullable() : null,
             Textarea::make('Note')->nullable(),
 
             new Panel('Content Fields', $this->contentFields()),
-
-            nova('meme') ? HasMany::make('Memes', 'memes', nova('meme')) : null,
 
             new Panel('Data Fields', $this->dataFields()),
         ];

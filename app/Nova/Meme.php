@@ -44,7 +44,7 @@ class Meme extends BaseResource
         return [
             Text::make('Title')->required(),
             Slug::make('Slug')->from('Title'),
-            nova('memeType') ? BelongsTo::make('MemeType', 'memeType', nova('memeType'))->nullable()->showCreateRelationButton() : null,
+            BelongsTo::make('Meme Type')->sortable(),
             nova('image') ? BelongsTo::make('Image', 'image', nova('image'))->nullable()->showCreateRelationButton() : null,
             TextCopy::make('Link',  function () {
                 return config('app.url') . $this->path;
