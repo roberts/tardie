@@ -13,8 +13,42 @@
 
                         <h2 class="mt-6 text-base font-semibold text-zinc-800 dark:text-zinc-100">GIF Memes</h2>
                         <div class="mt-16 sm:mt-20">
-                            <ul role="list" class="grid grid-cols-1 gap-x-12 gap-y-16 sm:grid-cols-2 lg:grid-cols-2">
+                            <ul role="list" class="grid grid-cols-1 gap-x-12 gap-y-16 sm:grid-cols-2 lg:grid-cols-3">
                                 <li class="group relative flex flex-col items-start">
+                                    <div class="relative z-10 flex h-full w-full items-center justify-center bg-white shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="3000" height="3000" decoding="async" class="h-full w-full" src="./img/sample-meme.jpg" style="color: transparent;"></div>
+                                    <h2 class="mt-6 text-base font-semibold text-zinc-800 dark:text-zinc-100 group-hover:text-teal-500">
+                                        <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 sm:-inset-x-6 sm:rounded-2xl dark:bg-zinc-800/50"></div><a href="/memes/test"><span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span><span class="relative z-10">Test Meme</span></a>
+                                    </h2>
+                                </li>
+                                <li class="group relative flex flex-col items-start">
+                                    <div class="relative z-10 flex h-full w-full items-center justify-center bg-white shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="3000" height="3000" decoding="async" class="h-full w-full" src="./img/sample-meme.jpg" style="color: transparent;"></div>
+                                    <h2 class="mt-6 text-base font-semibold text-zinc-800 dark:text-zinc-100 group-hover:text-teal-500">
+                                        <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 sm:-inset-x-6 sm:rounded-2xl dark:bg-zinc-800/50"></div><a href="http://planetaria.tech/"><span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span><span class="relative z-10">Planetaria</span></a>
+                                    </h2>
+                                </li>
+                                <li class="group relative flex flex-col items-start">
+                                    <div class="relative z-10 flex h-full w-full items-center justify-center bg-white shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="3000" height="3000" decoding="async" class="h-full w-full" src="./img/sample-meme.jpg" style="color: transparent;"></div>
+                                    <h2 class="mt-6 text-base font-semibold text-zinc-800 dark:text-zinc-100 group-hover:text-teal-500">
+                                        <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 sm:-inset-x-6 sm:rounded-2xl dark:bg-zinc-800/50"></div><a href="http://planetaria.tech/"><span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span><span class="relative z-10">Planetaria</span></a>
+                                    </h2>
+                                </li>
+                                <li class="group relative flex flex-col items-start">
+                                    <div class="relative z-10 flex h-full w-full items-center justify-center bg-white shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="3000" height="3000" decoding="async" class="h-full w-full" src="./img/sample-meme.jpg" style="color: transparent;"></div>
+                                    <h2 class="mt-6 text-base font-semibold text-zinc-800 dark:text-zinc-100 group-hover:text-teal-500">
+                                        <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 sm:-inset-x-6 sm:rounded-2xl dark:bg-zinc-800/50"></div><a href="http://planetaria.tech/"><span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span><span class="relative z-10">Planetaria</span></a>
+                                    </h2>
+                                </li>
+                                <li class="group relative flex flex-col items-start">
+                                    <div class="relative z-10 flex h-full w-full items-center justify-center bg-white shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="3000" height="3000" decoding="async" class="h-full w-full" src="./img/sample-meme.jpg" style="color: transparent;"></div>
+                                    <h2 class="mt-6 text-base font-semibold text-zinc-800 dark:text-zinc-100 group-hover:text-teal-500">
+                                        <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 sm:-inset-x-6 sm:rounded-2xl dark:bg-zinc-800/50"></div><a href="http://planetaria.tech/"><span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span><span class="relative z-10">Planetaria</span></a>
+                                    </h2>
+                                </li>
+                                <li class="group relative flex flex-col items-start">
+                                    <div class="relative z-10 flex h-full w-full items-center justify-center bg-white shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="3000" height="3000" decoding="async" class="h-full w-full" src="./img/sample-meme.jpg" style="color: transparent;"></div>
+                                    <h2 class="mt-6 text-base font-semibold text-zinc-800 dark:text-zinc-100 group-hover:text-teal-500">
+                                        <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 sm:-inset-x-6 sm:rounded-2xl dark:bg-zinc-800/50"></div><a href="http://planetaria.tech/"><span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span><span class="relative z-10">Planetaria</span></a>
+                                    </h2>
                                 </li>
                             </ul>
                         </div>

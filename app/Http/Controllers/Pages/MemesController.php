@@ -9,11 +9,6 @@ use Illuminate\Http\Request;
 
 class MemesController extends Controller
 {
-    /**
-     * Display a listing of the resource.
-     *
-     * @return \Illuminate\Http\Response
-     */
     public function index()
     {
         // $image = Image::find(43)->url;
@@ -27,67 +22,42 @@ class MemesController extends Controller
         ]);
     }
 
-    /**
-     * Show the form for creating a new resource.
-     *
-     * @return \Illuminate\Http\Response
-     */
     public function create()
     {
         //
     }
 
-    /**
-     * Store a newly created resource in storage.
-     *
-     * @param  \Illuminate\Http\Request  $request
-     * @return \Illuminate\Http\Response
-     */
     public function store(Request $request)
     {
         //
     }
 
-    /**
-     * Display the specified resource.
-     *
-     * @param  \App\Models\Meme  $meme
-     * @return \Illuminate\Http\Response
-     */
     public function show(Meme $meme)
     {
-        //
+        // $image = Image::find(43)->url;
+        $image = url('img/og-bob.png');
+
+        return view('pages.meme', [
+            'meme' => $meme,
+            'title' => $meme->title,
+            'description' => $meme->description,
+            'image' => $meme->image->url,
+            'content' => $meme->content,
+            'canonical' => route('memes'),
+            'ogimage' => 'img/og-bob.png',
+        ]);
     }
 
-    /**
-     * Show the form for editing the specified resource.
-     *
-     * @param  \App\Models\Meme  $meme
-     * @return \Illuminate\Http\Response
-     */
     public function edit(Meme $meme)
     {
         //
     }
 
-    /**
-     * Update the specified resource in storage.
-     *
-     * @param  \Illuminate\Http\Request  $request
-     * @param  \App\Models\Meme  $meme
-     * @return \Illuminate\Http\Response
-     */
     public function update(Request $request, Meme $meme)
     {
         //
     }
 
-    /**
-     * Remove the specified resource from storage.
-     *
-     * @param  \App\Models\Meme  $meme
-     * @return \Illuminate\Http\Response
-     */
     public function destroy(Meme $meme)
     {
         //
