@@ -33,9 +33,9 @@ class MemeTypeController extends Controller
             'memeType' => $memeType,
             'title' => $memeType->title,
             'description' => $memeType->description,
-            'image' => $memeType->image->url,
+            'image' => $image,
             'content' => $memeType->content,
-            'canonical' => route('memetypes'),
+            'canonical' => env('APP_URL') . $memeType->getPathAttribute(),
             'ogimage' => 'img/og-bob.png',
         ]);
     }

@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\Pages;
 
 use App\Models\Meme;
+use App\Models\MemeType;
 use App\Http\Controllers\Controller;
 use DrewRoberts\Media\Models\Image;
 use Illuminate\Http\Request;
@@ -32,7 +33,7 @@ class MemesController extends Controller
         //
     }
 
-    public function show(Meme $meme)
+    public function show(MemeType $memeType, Meme $meme)
     {
         // $image = Image::find(43)->url;
         $image = url('img/og-bob.png');
@@ -43,7 +44,7 @@ class MemesController extends Controller
             'description' => $meme->description,
             'image' => $meme->image->url,
             'content' => $meme->content,
-            'canonical' => route('memes'),
+            'canonical' => env('APP_URL') . $meme->getPathAttribute(),
             'ogimage' => 'img/og-bob.png',
         ]);
     }
