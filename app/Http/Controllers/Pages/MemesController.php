@@ -20,6 +20,7 @@ class MemesController extends Controller
             'description' => 'Memes for $BOB on Solana are created by the Bob Community and available freely to share on the interwebs to promote Bob & Robert and all of us because we are all Bob.',
             'canonical' => route('memes'),
             'ogimage' => $image === null ? url('img/og-bob.png') : $image,
+            'memeTypes' => MemeType::all(),
         ]);
     }
 
