@@ -31,10 +31,6 @@ class MemeType extends BaseModel
         static::saving(function (MemeType $memeType) {
             $memeType->validateSlug();
         });
-
-        static::deleting(function (MemeType $memeType) {
-            throw_if($memeType->series()->count(), HasChildrenException::class);
-        });
     }
 
     private function validateSlug(): void
