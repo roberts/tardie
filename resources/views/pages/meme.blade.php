@@ -27,7 +27,7 @@
                         </div>
 
                         <div class="w-full">
-                            <img alt="" width="{{ $meme->image->width }}" height="3{{ $meme->image->height }}" decoding="async" class="aspect-square w-full bg-zinc-100 object-cover dark:bg-zinc-800" style="color:transparent" src="{{ $image }}">
+                            <img alt="" width="{{ $meme->image->width }}" height="3{{ $meme->image->height }}" decoding="async" class="w-full bg-zinc-100 object-cover dark:bg-zinc-800" style="color:transparent" src="{{ $image }}">
                         </div>
 
 
