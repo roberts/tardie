@@ -31,6 +31,7 @@ class MemeTypeController extends Controller
 
         return view('pages.memetype', [
             'memeType' => $memeType,
+            'memes' => $memeType->memes,
             'title' => $memeType->title,
             'description' => $memeType->description,
             'image' => $image,

@@ -68,6 +68,24 @@ class Meme extends BaseModel
     }
 
     /**
+     * Get a string url for the meme image
+     *
+     * @return string
+     */
+    public function getMemeImageTypeAttribute(): string
+    {
+        if ($this->meme_type->id = 2) {
+            return '.gif';
+        }
+        elseif ($this->meme_type->id = 3) {
+            return '.png';
+        }
+        else {
+            return '.jpeg';
+        }
+    }
+
+    /**
      * Get a string path for the meme
      *
      * @return string
