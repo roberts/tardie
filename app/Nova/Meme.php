@@ -26,7 +26,7 @@ class Meme extends BaseResource
         'title',
     ];
 
-    public static $group = 'Shitcoin Memes';
+    public static $group = 'A+ Memes';
 
     public function fieldsForIndex(NovaRequest $request)
     {
