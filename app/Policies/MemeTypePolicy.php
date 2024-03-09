@@ -32,7 +32,7 @@ class MemeTypePolicy
     
     public function delete(UserInterface $user, MemeType $memeType)
     {
-        return false;
+        return $user->hasPermissionTo('create pages');
     }
 
     public function restore(UserInterface $user, MemeType $memeType)
