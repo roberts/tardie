@@ -44,7 +44,7 @@
                         <div class="mx-auto grid max-w-xl grid-cols-1 gap-y-20 lg:max-w-none lg:grid-cols-2">
                             <div class="flex flex-col gap-16">
                                 <a class="twitter-timeline" data-lang="en" data-height="1000" data-theme="dark" href="https://twitter.com/BobdaoSol?ref_src=twsrc%5Etfw">Tweets by BobdaoSol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+                                
                                 <!-- Article link format for future
                                 <article class="group relative flex flex-col items-start">
                                     <h2 class="text-base font-semibold tracking-tight text-zinc-800 dark:text-zinc-100">
