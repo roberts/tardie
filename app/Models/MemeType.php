@@ -55,7 +55,7 @@ class MemeType extends BaseModel
 
     public function getPathAttribute()
     {
-        return "memes/{$this->slug}";
+        return "/memes/{$this->slug}";
     }
 
     public function memes()

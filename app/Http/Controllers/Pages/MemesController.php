@@ -45,7 +45,7 @@ class MemesController extends Controller
             'image' => $meme->image->url,
             'content' => $meme->content,
             'canonical' => env('APP_URL') . $meme->getPathAttribute(),
-            'ogimage' => 'img/og-bob.png',
+            'ogimage' => env('APP_URL') . '/img/og-bob.png',
         ]);
     }
 
