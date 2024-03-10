@@ -6,6 +6,7 @@ use App\Http\Controllers\Pages\HomepageController;
 use App\Http\Controllers\Pages\MemesController;
 use App\Http\Controllers\Pages\MemeTypeController;
 use App\Http\Controllers\Pages\ChartController;
+use App\Http\Controllers\SubmissionController;
 
 /*
 |--------------------------------------------------------------------------
@@ -29,3 +30,6 @@ Route::prefix('memes')->group(function () {
     Route::get('{memeType}', [MemeTypeController::class, 'show']);
     Route::get('{memeType}/{meme}', [MemesController::class, 'show']);
 });
+
+Route::get('/submitted', [SubmissionController::class, 'confirmation'])->name('confirmation');
+Route::post('/submissions', [SubmissionController::class, 'store'])->name('submit');
