@@ -13,7 +13,7 @@
 
                         @foreach ($memeTypes as $meme_type)
                             @if($meme_type->memes->count() >= 1)
-                                <h2 class="mt-24 text-2xl font-semibold text-zinc-800 dark:text-zinc-100"><a href="{{ $meme_type->path }}">{{ $meme_type->title }} Memes</a></h2>
+                                <h2 class="mt-24 text-2xl font-semibold text-zinc-800 dark:text-zinc-100"><a href="{{ $meme_type->path }}">{{ $meme_type->title === 'JPEG' ? 'Meme' : $meme_type->title }}s</a></h2>
                                 <div class="mt-8 sm:mt-8">
                                     <ul role="list" class="grid grid-cols-1 gap-x-12 gap-y-16 sm:grid-cols-2 lg:grid-cols-3">
                                         @foreach ($meme_type->memes->take(6) as $meme)
