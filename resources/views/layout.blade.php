@@ -4,7 +4,7 @@
     class="h-full antialiased dark" 
     style="color-scheme: dark; --header-position: sticky; --content-offset: 0px; --header-height: 64px; --header-mb: 0px; --header-top: 0px; --avatar-top: 0px;"
     x-data="{ darkMode: $persist(true), 'showModal': false }"
-    :class="{'dark': darkMode === true }"
+    :class="{'dark': darkMode === false }"
     @keydown.escape="showModal = false" 
     x-cloak
 >
@@ -14,7 +14,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="/css/app.css" rel="stylesheet">
 
-    <title>{{ $title ?? '$BOB on Solana' }}</title>
+    <title>{{ $title ?? '$TaRDie on Solana' }}</title>
     <meta name="description" content="{{ $description ?? 'I am Bob. You are Bob. We are all perfectly Bob. We exist on the Solana Blockchain. Ticker is $BOB.' }}" />
     <link rel="canonical" href="{{ $canonical ?? 'https://tickerisbob.com' }}" />
     <link rel="icon" type="image/x-icon" sizes="16x16" href="/favicon.ico">
