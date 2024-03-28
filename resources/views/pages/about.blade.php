@@ -29,11 +29,11 @@ Pick out the which shade of pink you want on your Lambo and prepare to live larg
 <p>10% Marketing </p>
 <p>10% Team </p>
                                     <p>Road map:</p>
- <p>  1 Assemble a dream team of Barbies and Kens. We’re talking the brains behind projects you’re holding.</p>
- <p>  2 Launch and Hype: memes, airdrops, and raids</p>
- <p> 3 Dex listing: The team knows Dex listings being Lambos. It’s rolling out the playbook for a quick listing </p>
- <p>  4 Partnerships: We will be linking up with a few other Solana projects for epic collaborations. </p>
- <p> 5 Give away pink Lambo at $100M: All Tardies will have Lambos, but we will give them away one at a time.</p>
+ <p>  1) Assemble a dream team of Barbies and Kens. We’re talking the brains behind projects you’re holding.</p>
+ <p>  2) Launch and Hype: memes, airdrops, and raids</p>
+ <p>  3) Dex listing: The team knows Dex listings being Lambos. It’s rolling out the playbook for a quick listing </p>
+ <p>  4) Partnerships: We will be linking up with a few other Solana projects for epic collaborations. </p>
+ <p>  5) Give away pink Lambo at $100M: All Tardies will have Lambos, but we will give them away one at a time.</p>
                                 </div>
                             </div>
                             <div class="lg:pl-20">
