@@ -8,7 +8,7 @@
                             <div class="flex flex-1">
                                 <div class="h-10 w-10 rounded-full">
                                     <a aria-label="Home" class="pointer-events-auto" href="{{ route('home') }}">
-                                        <img alt="" fetchpriority="high" width="512" height="512" decoding="async" class="rounded-full object-cover h-10 w-10" style="color:transparent" sizes="2.25rem" src="/img/tardie.png">
+                                        <img alt="" fetchpriority="high" width="512" height="512" decoding="async" class="rounded-full object-cover h-10 w-10" style="color:transparent" sizes="2.25rem" src="/img/circle-tardie.png">
                                     </a>
                                 </div>
                             </div>
