@@ -39,7 +39,7 @@ class SubmissionController extends Controller
 
         return view('pages.submissions.confirmation', [
             'title' => '$TaRDie Submission',
-            'description' => 'Find out more about $TaRDie on Solana, a leading meme coin on the Solana Blockchain for we are all Bob. I am Bob. You are Bob. We are all Bob.',
+            'description' => 'Not just a memecoin. Its a lifestyle. 💅 Pink Lambo giveaway at 69 million',
             'canonical' => route('confirmation'),
             'ogimage' => url('img/og-tardie.png'),
             'solana' => session('solana') === null ? 'Solana-Address-Here' : session('solana'),
