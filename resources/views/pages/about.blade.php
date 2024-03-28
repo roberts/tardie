@@ -23,17 +23,17 @@ Strap in bitches. We are about to ride that Barbie Dream House straight to the m
 
 Pick out the which shade of pink you want on your Lambo and prepare to live large
 </p>
-                                    <p>Tokenomics 
-70% liquidity 
-10% Dex Listings
-10% Marketing
-10% Team</p>
-                                    <p>Road map:
- 1 Assemble a dream team of Barbies and Kens. We’re talking the brains behind projects you’re holding.
- 2 Launch and Hype: memes, airdrops, and raids
- 3 Dex listing: The team knows Dex listings being Lambos. It’s rolling out the playbook for a quick listing 
- 4 Partnerships: We will be linking up with a few other Solana projects for epic collaborations. 
- 5 Give away pink Lambo at $100M: All Tardies will have Lambos, but we will give them away one at a time.</p>
+                                    <p> <h2 Tokenomics </h2></p>
+ <p>70% liquidity </p>
+<p>10% Dex Listings </p>
+<p>10% Marketing </p>
+<p>10% Team </p>
+                                    <p> <h2 Road map:</h2></p>
+ <p>  1 Assemble a dream team of Barbies and Kens. We’re talking the brains behind projects you’re holding.</p>
+ <p>  2 Launch and Hype: memes, airdrops, and raids</p>
+ <p> 3 Dex listing: The team knows Dex listings being Lambos. It’s rolling out the playbook for a quick listing </p>
+ <p>  4 Partnerships: We will be linking up with a few other Solana projects for epic collaborations. </p>
+ <p> 5 Give away pink Lambo at $100M: All Tardies will have Lambos, but we will give them away one at a time.</p>
                                 </div>
                             </div>
                             <div class="lg:pl-20">
