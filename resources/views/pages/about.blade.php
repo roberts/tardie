@@ -13,9 +13,27 @@
                             <div class="lg:order-first lg:row-span-2">
                                 <h1 class="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">$TaRDie on Solana. Not just a memecoin. Its a lifestyle.</h1>
                                 <div class="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
-                                    <p>What makes for a great Bob? In the history of culture and civilization, the name Bob has been synonymous with the mundane. Bob might be your insurance agent; Bob might be a neighbor obsessed with lawn care. The United States has never had a president named Bob. History is lousy with Bobs that have gone unheralded.</p>
-                                    <p>No more. We’ve gone bobbing for some of the most remarkable short-for-Roberts in modern history. A compelling Bob is a metaphor for the kind of information that proves most satisfying—superficially undistinguished, but possessed of a deeper and more fascinating story. “Robert,” after all, comes from the German Hrodebert, or “bright fame.” These Bobs shine more brightly than the rest.</p>
-                                    <p>The seemingly unassuming yet undeniably popular name Bob is a boy’s name of British origin. Bob comes from the Germanic name Robert and means “bright” and “fame.” During the Middle Ages, shortening and rhyming names was the trend, with names like Rob, Dob, and Hob also stemming from Robert. While Bob has stepped slightly to the sidelines since the 1960s, this timeless classic is bound to make a comeback with the revival of vintage names. The TV show Bob’s Burgers stars the titular character, a loveable and hardworking dad trying to run a successful restaurant. The nickname Bobby is also an adorable option for your bundle of sunshine. A name with such uplifting connotations may lead baby Bob to stardom if they truly desire it.</p>
+                                    <p>Introducing “TaRDie Barbie.”
+
+The sickest meme coin on Solana flexin that Barbie vibe like no other. Picture this: Barbie rockin that hit pink Lambo crusing down the blockchain like a boss!
+
+$TaRDie Barbie isn’t just a meme coin. It’s a lifestyle. We’re talking pink diamonds, yacht parties, and retarded gains.
+
+Strap in bitches. We are about to ride that Barbie Dream House straight to the moon!
+
+Pick out the which shade of pink you want on your Lambo and prepare to live large
+</p>
+                                    <p>Tokenomics 
+70% liquidity 
+10% Dex Listings
+10% Marketing
+10% Team</p>
+                                    <p>Road map:
+ 1 Assemble a dream team of Barbies and Kens. We’re talking the brains behind projects you’re holding.
+ 2 Launch and Hype: memes, airdrops, and raids
+ 3 Dex listing: The team knows Dex listings being Lambos. It’s rolling out the playbook for a quick listing 
+ 4 Partnerships: We will be linking up with a few other Solana projects for epic collaborations. 
+ 5 Give away pink Lambo at $100M: All Tardies will have Lambos, but we will give them away one at a time.</p>
                                 </div>
                             </div>
                             <div class="lg:pl-20">
