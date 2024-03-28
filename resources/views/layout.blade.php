@@ -15,8 +15,8 @@
     <link href="/css/app.css" rel="stylesheet">
 
     <title>{{ $title ?? '$TaRDie on Solana' }}</title>
-    <meta name="description" content="{{ $description ?? 'I am Bob. You are Bob. We are all perfectly Bob. We exist on the Solana Blockchain. Ticker is $BOB.' }}" />
-    <link rel="canonical" href="{{ $canonical ?? 'https://tickerisbob.com' }}" />
+    <meta name="description" content="{{ $description ?? 'We are TaRDie and we are here to party on the Solana Blockchain. Ticker is $TaRDie for the bArbIEs.' }}" />
+    <link rel="canonical" href="{{ $canonical ?? 'https://tardie.xyz' }}" />
     <link rel="icon" type="image/x-icon" sizes="16x16" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/img/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/img/favicons/favicon-32x32.png">
@@ -25,15 +25,15 @@
 
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="{{ $title ?? '$BOB on Solana' }}" />
-    <meta property="og:description" content="{{ $description ?? 'I am Bob. You are Bob. We are all perfectly Bob. We exist on the Solana Blockchain. Ticker is $BOB.' }}" />
-    <meta property="og:url" content="{{ $canonical ?? 'https://tickerisbob.com' }}" />
+    <meta property="og:title" content="{{ $title ?? '$TaRDie on Solana' }}" />
+    <meta property="og:description" content="{{ $description ?? 'We are TaRDie and we are here to party on the Solana Blockchain. Ticker is $TaRDie for the bArbIEs.' }}" />
+    <meta property="og:url" content="{{ $canonical ?? 'https://tardie.xyz' }}" />
     <meta property="og:site_name" content="$BOB on Solana" />
-    <meta property="og:image" content="{{ $ogimage ?? 'https://tickerisbob.com/img/og-bob.png' }}" />
+    <meta property="og:image" content="{{ $ogimage ?? 'https://tardie.xyz/img/og-tardie.png' }}" />
     <meta property="article:publisher" content="https://www.facebook.com/drewroberts" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:description" content="{{ $ogdescription ?? 'I am Bob. You are Bob. We are all perfectly Bob. We exist on the Solana Blockchain. Ticker is $BOB.' }}" />
-    <meta name="twitter:title" content="{{ $title ?? '$BOB on Solana' }}" />
+    <meta name="twitter:description" content="{{ $ogdescription ?? 'We are TaRDie and we are here to party on the Solana Blockchain. Ticker is $TaRDie for the bArbIEs.' }}" />
+    <meta name="twitter:title" content="{{ $title ?? '$TaRDie on Solana' }}" />
 
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
