@@ -43,9 +43,7 @@
                             <p class="mt-6 text-base text-zinc-600 dark:text-zinc-400">Here is the live $TaRDie chart on DexScreener:</p>
                         </header>
                         <div class="mt-6 sm:mt-6">
-                            <style>#dexscreener-embed{position:relative;width:100%;padding-bottom:125%;}@media(min-width:1400px){#dexscreener-embed{padding-bottom:65%;}}#dexscreener-embed iframe{position:absolute;width:100%;height:100%;top:0;left:0;border:0;}</style>
-                            <div id="dexscreener-embed">
-                                <iframe src="<style>#dexscreener-embed{position:relative;width:100%;padding-bottom:125%;}@media(min-width:1400px){#dexscreener-embed{padding-bottom:65%;}}#dexscreener-embed iframe{position:absolute;width:100%;height:100%;top:0;left:0;border:0;}</style><div id="dexscreener-embed"><iframe src="https://dexscreener.com/solana/3cpWBnFjWB3fVcdUWt7jbNwkSsDmtwfJnL4zPXrMJBgS?embed=1&theme=dark"></iframe></div>"></iframe>
+                        <style>#dexscreener-embed{position:relative;width:100%;padding-bottom:125%;}@media(min-width:1400px){#dexscreener-embed{padding-bottom:65%;}}#dexscreener-embed iframe{position:absolute;width:100%;height:100%;top:0;left:0;border:0;}</style><div id="dexscreener-embed"><iframe src="https://dexscreener.com/solana/3cpWBnFjWB3fVcdUWt7jbNwkSsDmtwfJnL4zPXrMJBgS?embed=1&theme=dark"></iframe></div>
                             </div>
                         </div>
                     </div>
