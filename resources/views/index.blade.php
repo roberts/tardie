@@ -62,7 +62,7 @@
                     <div class="mx-auto max-w-2xl lg:max-w-5xl">
                         <div class="mx-auto grid max-w-xl grid-cols-1 gap-y-20 lg:max-w-none lg:grid-cols-2">
                             <div class="flex flex-col gap-16">
-                                <a class="twitter-timeline" data-lang="en" data-height="1000" data-theme="dark" href="https://twitter.com/BobdaoSol?ref_src=twsrc%5Etfw">Tweets by TaRDie bARBie </a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                                <a class="twitter-timeline" data-lang="en" data-height="1000" data-theme="dark" href="https://twitter.com/TardieBarbie?ref_src=twsrc%5Etfw">Tweets by TaRDie bARBie </a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                                 
                                 <!-- Article link format for future
                                 <article class="group relative flex flex-col items-start">
@@ -120,8 +120,8 @@
                                         <li class="flex gap-4">
                                             <div class="relative mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="32" height="32" decoding="async" class="h-7 w-7 object-cover rounded" style="color:transparent" src="/img/marley.jpeg"></div>
                                             <dl class="flex flex-auto flex-wrap gap-x-2">
-                                                <dt class="sr-only">Bob</dt>
-                                                <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100">Bob Marley</dd>
+                                                <dt class="sr-only">TaRDie</dt>
+                                                <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100">TaRDie Marley</dd>
                                                 <dt class="sr-only">Phase</dt>
                                                 <dd class="text-xs text-zinc-500 dark:text-zinc-400">Phase 1</dd>
                                                 <dt class="sr-only">Date</dt>
@@ -131,8 +131,8 @@
                                         <li class="flex gap-4">
                                             <div class="relative mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="28" height="28" decoding="async" class="h-7 w-7" style="color:transparent" src="/img/ross.jpeg"></div>
                                             <dl class="flex flex-auto flex-wrap gap-x-2">
-                                                <dt class="sr-only">Bob</dt>
-                                                <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100">Bob Ross</dd>
+                                                <dt class="sr-only">TaRDie</dt>
+                                                <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100">TaRDie Ross</dd>
                                                 <dt class="sr-only">Phase</dt>
                                                 <dd class="text-xs text-zinc-500 dark:text-zinc-400">Phase 2</dd>
                                                 <dt class="sr-only">Date</dt>
@@ -142,8 +142,8 @@
                                         <li class="flex gap-4">
                                             <div class="relative mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="28" height="28" decoding="async" class="h-7 w-7" style="color:transparent" src="/img/dylan.jpeg"></div>
                                             <dl class="flex flex-auto flex-wrap gap-x-2">
-                                                <dt class="sr-only">Bob</dt>
-                                                <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100">Bob Dylan</dd>
+                                                <dt class="sr-only">TaRDie</dt>
+                                                <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100">TaRDie Dylan</dd>
                                                 <dt class="sr-only">Phase</dt>
                                                 <dd class="text-xs text-zinc-500 dark:text-zinc-400">Phase 3</dd>
                                                 <dt class="sr-only">Date</dt>
@@ -153,8 +153,8 @@
                                         <li class="flex gap-4">
                                             <div class="relative mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="28" height="28" decoding="async" class="h-7 w-7" style="color:transparent" src="/img/sponge.jpeg"></div>
                                             <dl class="flex flex-auto flex-wrap gap-x-2">
-                                                <dt class="sr-only">Bob</dt>
-                                                <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100">Sponge Bob</dd>
+                                                <dt class="sr-only">TaRDie</dt>
+                                                <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100">Sponge TaRDie</dd>
                                                 <dt class="sr-only">Phase</dt>
                                                 <dd class="text-xs text-zinc-500 dark:text-zinc-400">Phase 4</dd>
                                                 <dt class="sr-only">Date</dt>

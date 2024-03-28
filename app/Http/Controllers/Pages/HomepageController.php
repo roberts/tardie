@@ -11,13 +11,13 @@ class HomepageController extends Controller
     public function __invoke(Request $request)
     {
         // $image = Image::find(43)->url;
-        $image = url('img/og-bob.png');
+        $image = url('img/og-tardie.png');
 
         return view('index', [
-            'title' => '$BOB on Solana',
-            'description' => 'Find out more about $BOB on Solana, a leading meme coin on the Solana Bloackchain for we are all Bob. I am Bob. You are Bob. We are all Bob.',
+            'title' => '$TaRDie on Solana',
+            'description' => 'Find out more about $TaRDie on Solana. Not just a memecoin. Its a lifestyle. 💅 Pink Lambo giveaway at 69 million',
             'canonical' => route('home'),
-            'ogimage' => $image === null ? url('img/og-bob.png') : $image,
+            'ogimage' => $image === null ? url('img/og-tardie.png') : $image,
         ]);
     }
 }

@@ -28,7 +28,7 @@
     <meta property="og:title" content="{{ $title ?? '$TaRDie on Solana' }}" />
     <meta property="og:description" content="{{ $description ?? 'We are TaRDie and we are here to party on the Solana Blockchain. Ticker is $TaRDie for the bArbIEs.' }}" />
     <meta property="og:url" content="{{ $canonical ?? 'https://tardie.xyz' }}" />
-    <meta property="og:site_name" content="$BOB on Solana" />
+    <meta property="og:site_name" content="$TaRDie on Solana" />
     <meta property="og:image" content="{{ $ogimage ?? 'https://tardie.xyz/img/og-tardie.png' }}" />
     <meta property="article:publisher" content="https://www.facebook.com/drewroberts" />
     <meta name="twitter:card" content="summary" />

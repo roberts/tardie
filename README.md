@@ -1,12 +1,12 @@
-# TickerIsBob.com
+# TaRDie.xyz
 
-Repository for Official $BOB on Solana website code - [TickerIsBob.com](https://TickerIsBob.com)
+Repository for Official $TaRDie on Solana website code - [TaRDie.xyz](https://TaRDie.xyz)
 
 ## Installation
 
 After setting up local dev environment with PHP 7.4, you will launch this Laravel 8 app by copying the ``.env.example`` file to ``.env``
 
-From there, create the ``bob`` database in MySQL and from the command line run the following commands:
+From there, create the ``tardie`` database in MySQL and from the command line run the following commands:
 
 ```bash
 composer install
@@ -16,7 +16,7 @@ npm install
 npm run dev
 ```
 
-You can then view the homepage if you're using Laravel Homestead at https://bob.test and can access Laravel Nova at http://bob.test/admin
+You can then view the homepage if you're using Laravel Homestead at https://tardie.test and can access Laravel Nova at http://tardie.test/admin
 
 ## Packages
 
