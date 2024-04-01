@@ -8,8 +8,8 @@
                     <div class="mx-auto max-w-2xl lg:max-w-5xl">
                         <div class="max-w-2xl">
                             <h1 class="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">We're TaRDie and we are here to party.</h1>
-                            <p class="hidden md:block mt-6 text-base text-zinc-600 dark:text-zinc-400">Are you down with the Syndrome? We ARE!  $TaRDie lives on the Solana Blockchain under this contract address: <a class=" text-zinc-600 dark:text-zinc-400 transition hover:text-zinc-500 dark:hover:text-zinc-300" href="https://solscan.io/token/6Wn3FEhbSkFSGuGkkx7YLKiYMnujPxJsG9VT7TU2cQc3</a></p>
-                            <p class="block md:hidden mt-6 text-base text-zinc-600 dark:text-zinc-400">Are you down with the Syndrome? We ARE!  $TaRDie lives on the Solana Blockchain under <a class=" text-zinc-600 dark:text-zinc-400 transition hover:text-zinc-500 dark:hover:text-zinc-300" href="https://solscan.io/token/6Wn3FEhbSkFSGuGkkx7YLKiYMnujPxJsG9VT7TU2cQc3">this contract address</a>.</p>
+                            <p class="hidden md:block mt-6 text-base text-zinc-600 dark:text-zinc-400">Are you down with the Syndrome? We ARE! $TaRDie lives on the Solana Blockchain under this contract address: <a class="text-zinc-600 dark:text-zinc-400 transition hover:text-zinc-500 dark:hover:text-zinc-300" href="https://solscan.io/token/6Wn3FEhbSkFSGuGkkx7YLKiYMnujPxJsG9VT7TU2cQc3</a></p>
+                            <p class="block md:hidden mt-6 text-base text-zinc-600 dark:text-zinc-400">Are you down with the Syndrome? We ARE! $TaRDie lives on the Solana Blockchain under <a class="text-zinc-600 dark:text-zinc-400 transition hover:text-zinc-500 dark:hover:text-zinc-300" href="https://solscan.io/token/6Wn3FEhbSkFSGuGkkx7YLKiYMnujPxJsG9VT7TU2cQc3">this contract address</a>.</p>
                             <div class="mt-6 flex gap-6">
                                 <a class="group -m-1 p-1" aria-label="Follow $TaRDie on X" href="https://twitter.com/TardieBarbie">
                                     <svg viewBox="0 0 24 24" aria-hidden="true" class="h-6 w-6 fill-zinc-500 transition group-hover:fill-zinc-600 dark:fill-zinc-400 dark:group-hover:fill-zinc-300">
@@ -121,44 +121,44 @@
                                             <div class="relative mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="32" height="32" decoding="async" class="h-7 w-7 object-cover rounded" style="color:transparent" src="/img/marley.jpeg"></div>
                                             <dl class="flex flex-auto flex-wrap gap-x-2">
                                                 <dt class="sr-only">TaRDie</dt>
-                                                <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100">TaRDie Marley</dd>
+                                                <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100">TaRDie bArbIE</dd>
                                                 <dt class="sr-only">Phase</dt>
                                                 <dd class="text-xs text-zinc-500 dark:text-zinc-400">Phase 1</dd>
                                                 <dt class="sr-only">Date</dt>
-                                                <dd class="ml-auto text-xs text-zinc-400 dark:text-zinc-500" aria-label="2024 until 2024"><time datetime="2024">Feb</time> <span aria-hidden="true">—</span> <time datetime="2024">Mar</time></dd>
+                                                <dd class="ml-auto text-xs text-zinc-400 dark:text-zinc-500" aria-label="2024 until 2024"><time datetime="2024">Mar</time> <span aria-hidden="true">—</span> <time datetime="2024">Apr</time></dd>
                                             </dl>
                                         </li>
                                         <li class="flex gap-4">
                                             <div class="relative mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="28" height="28" decoding="async" class="h-7 w-7" style="color:transparent" src="/img/ross.jpeg"></div>
                                             <dl class="flex flex-auto flex-wrap gap-x-2">
                                                 <dt class="sr-only">TaRDie</dt>
-                                                <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100">TaRDie Ross</dd>
+                                                <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100">TaRDie bArbIE</dd>
                                                 <dt class="sr-only">Phase</dt>
                                                 <dd class="text-xs text-zinc-500 dark:text-zinc-400">Phase 2</dd>
                                                 <dt class="sr-only">Date</dt>
-                                                <dd class="ml-auto text-xs text-zinc-400 dark:text-zinc-500" aria-label="2024 until 2024"><time datetime="2024">Apr</time> <span aria-hidden="true">—</span> <time datetime="2024">May</time></dd>
+                                                <dd class="ml-auto text-xs text-zinc-400 dark:text-zinc-500" aria-label="2024 until 2024"><time datetime="2024">May</time> <span aria-hidden="true">—</span> <time datetime="2024">Jun</time></dd>
                                             </dl>
                                         </li>
                                         <li class="flex gap-4">
                                             <div class="relative mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="28" height="28" decoding="async" class="h-7 w-7" style="color:transparent" src="/img/dylan.jpeg"></div>
                                             <dl class="flex flex-auto flex-wrap gap-x-2">
                                                 <dt class="sr-only">TaRDie</dt>
-                                                <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100">TaRDie Dylan</dd>
+                                                <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100">TaRDie bArbIE</dd>
                                                 <dt class="sr-only">Phase</dt>
                                                 <dd class="text-xs text-zinc-500 dark:text-zinc-400">Phase 3</dd>
                                                 <dt class="sr-only">Date</dt>
-                                                <dd class="ml-auto text-xs text-zinc-400 dark:text-zinc-500" aria-label="2024 until 2024"><time datetime="2024">Jun</time> <span aria-hidden="true">—</span> <time datetime="2024">Jul</time></dd>
+                                                <dd class="ml-auto text-xs text-zinc-400 dark:text-zinc-500" aria-label="2024 until 2024"><time datetime="2024">Jul</time> <span aria-hidden="true">—</span> <time datetime="2024">Aug</time></dd>
                                             </dl>
                                         </li>
                                         <li class="flex gap-4">
                                             <div class="relative mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full shadow-md shadow-zinc-800/5 ring-1 ring-zinc-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0"><img alt="" loading="lazy" width="28" height="28" decoding="async" class="h-7 w-7" style="color:transparent" src="/img/sponge.jpeg"></div>
                                             <dl class="flex flex-auto flex-wrap gap-x-2">
                                                 <dt class="sr-only">TaRDie</dt>
-                                                <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100">Sponge TaRDie</dd>
+                                                <dd class="w-full flex-none text-sm font-medium text-zinc-900 dark:text-zinc-100">TaRDie bArbIE</dd>
                                                 <dt class="sr-only">Phase</dt>
                                                 <dd class="text-xs text-zinc-500 dark:text-zinc-400">Phase 4</dd>
                                                 <dt class="sr-only">Date</dt>
-                                                <dd class="ml-auto text-xs text-zinc-400 dark:text-zinc-500" aria-label="2024 until 2024"><time datetime="2024">Aug</time> <span aria-hidden="true">—</span> <time datetime="2024">Sep</time></dd>
+                                                <dd class="ml-auto text-xs text-zinc-400 dark:text-zinc-500" aria-label="2024 until 2024"><time datetime="2024">Sep</time> <span aria-hidden="true">—</span> <time datetime="2024">Oct</time></dd>
                                             </dl>
                                         </li>
                                     </ol>
