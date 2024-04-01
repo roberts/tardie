@@ -7,6 +7,7 @@ use App\Http\Controllers\Pages\MemesController;
 use App\Http\Controllers\Pages\MemeTypeController;
 use App\Http\Controllers\Pages\ChartController;
 use App\Http\Controllers\SubmissionController;
+use App\Http\Controllers\Pages\WhitepaperController;
 
 /*
 |--------------------------------------------------------------------------
@@ -24,6 +25,8 @@ Route::get('/', HomepageController::class)->name('home');
 Route::get('/about', AboutController::class)->name('about');
 
 Route::get('/chart', ChartController::class)->name('chart');
+
+Route::get('/whitepaper', WhitepaperController::class)->name('whitepaper');
 
 Route::prefix('memes')->group(function () {
     Route::get('/', [MemesController::class, 'index'])->name('memes');

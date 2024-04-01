@@ -11,19 +11,19 @@
                                 <div class="max-w-xs px-2.5 lg:max-w-none"><img alt="" loading="lazy" width="800" height="800" decoding="async" class="aspect-square rotate-3 rounded-2xl bg-zinc-100 object-cover dark:bg-zinc-800" style="color:transparent" sizes="(min-width: 1024px) 32rem, 20rem" src="/img/tardie.jpeg"></div>
                             </div>
                             <div class="lg:order-first lg:row-span-2">
-                                <h1 class="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">$TaRDie on Solana. Not just a memecoin. Its a lifestyle.</h1>
+                                <h1 class="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">TaRDie bArbIE Whitepaper</h1>
                                 <div class="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
-                                    <p>Introducing “TaRDie Barbie.”</p>
-
-                                    <p>The sickest meme coin on Solana flexin that Barbie vibe like no other. Picture this: Barbie rockin that hit pink Lambo crusing down the blockchain like a boss!</p>
-
-                                    <p>$TaRDie Barbie isn’t just a meme coin. It’s a lifestyle. We’re talking pink diamonds, yacht parties, and retarded gains.</p>
-
-                                    <p>Strap in ladies. We are about to ride that Barbie Dream House straight to the moon!</p>
-
-                                    <p>Pick out the which shade of pink you want on your Lambo and prepare to live large..</p>
-
-                                    <p><a class=" text-zinc-800 transition hover:text-teal-500 dark:text-zinc-200 dark:hover:text-teal-500"  href="{{ route('whitepaper') }}">View Whitepaper.</a></p>
+                                    <h2>Tokenomics</h2>
+                                    <p>70% Liquidity </p>
+                                    <p>10% Dex Listings </p>
+                                    <p>10% Marketing </p>
+                                    <p>10% Team </p>
+                                    <h2>Roadmap:</h2>
+                                    <p>  1) Assemble a dream team of Barbies and Kens. We’re talking the brains behind projects you’re holding.</p>
+                                    <p>  2) Launch and Hype: memes, airdrops, and raids</p>
+                                    <p>  3) Dex listing: The team knows Dex listings being Lambos. It’s rolling out the playbook for a quick listing </p>
+                                    <p>  4) Partnerships: We will be linking up with a few other Solana projects for epic collaborations. </p>
+                                    <p>  5) Give away pink Lambo at $100M: All Tardies will have Lambos, but we will give them away one at a time.</p>
                                 </div>
                             </div>
                             <div class="lg:pl-20">
