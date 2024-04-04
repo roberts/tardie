@@ -23,7 +23,7 @@
 
                                     <p>Pick out the which shade of pink you want on your Lambo and prepare to live large..</p>
 
-                                    <p><a class=" text-zinc-800 transition hover:text-teal-500 dark:text-zinc-200 dark:hover:text-teal-500"  href="{{ route('whitepaper') }}">View Whitepaper.</a></p>
+                                    <p><a class=" text-zinc-800 transition hover:text-teal-500 dark:text-zinc-200 dark:hover:text-teal-500"  href="/whitepaper.pdf">View Whitepaper.</a></p>
                                 </div>
                             </div>
                             <div class="lg:pl-20">

@@ -26,7 +26,7 @@ Route::get('/about', AboutController::class)->name('about');
 
 Route::get('/chart', ChartController::class)->name('chart');
 
-Route::get('/whitepaper', WhitepaperController::class)->name('whitepaper');
+// Route::get('/whitepaper', WhitepaperController::class)->name('whitepaper');
 
 Route::prefix('memes')->group(function () {
     Route::get('/', [MemesController::class, 'index'])->name('memes');

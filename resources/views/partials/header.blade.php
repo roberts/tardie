@@ -35,7 +35,7 @@
                                                 <ul class="-my-2 divide-y divide-zinc-100 text-base text-zinc-800 dark:divide-zinc-100/5 dark:text-zinc-300">
                                                     <li><a class="block py-2" href="{{ route('home') }}">Home</a></li>    
                                                     <li><a class="block py-2" href="{{ route('about') }}">About</a></li>
-                                                    <li><a class="block py-2" href="{{ route('whitepaper') }}">Whitepaper</a></li>
+                                                    <li><a class="block py-2" href="/whitepaper.pdf">Whitepaper</a></li>
                                                     <li><a class="block py-2" href="{{ route('memes') }}">Memes</a></li>
                                                     <li><a class="block py-2" href="{{ route('chart') }}">Chart</a></li>
                                                 </ul>
@@ -49,7 +49,7 @@
                                         {{-- <li><a class="relative block px-3 py-2 transition text-teal-500 dark:text-teal-400" href="{{ route('about') }}">About<span class="absolute inset-x-1 -bottom-px h-px bg-gradient-to-r from-teal-500/0 via-teal-500/40 to-teal-500/0 dark:from-teal-400/0 dark:via-teal-400/40 dark:to-teal-400/0"></span></a></li> --}}
                                         <li><a class="relative block px-3 py-2 transition hover:text-teal-500 dark:hover:text-teal-400" href="{{ route('home') }}">Home</a></li>
                                         <li><a class="relative block px-3 py-2 transition hover:text-teal-500 dark:hover:text-teal-400" href="{{ route('about') }}">About</a></li>
-                                        <li><a class="relative block px-3 py-2 transition hover:text-teal-500 dark:hover:text-teal-400" href="{{ route('whitepaper') }}">Whitepaper</a></li>
+                                        <li><a class="relative block px-3 py-2 transition hover:text-teal-500 dark:hover:text-teal-400" href="/whitepaper.pdf">Whitepaper</a></li>
                                         <li><a class="relative block px-3 py-2 transition hover:text-teal-500 dark:hover:text-teal-400" href="{{ route('memes') }}">Memes</a></li>
                                         <li><a class="relative block px-3 py-2 transition hover:text-teal-500 dark:hover:text-teal-400" href="{{ route('chart') }}">Chart</a></li>
                                     </ul>
